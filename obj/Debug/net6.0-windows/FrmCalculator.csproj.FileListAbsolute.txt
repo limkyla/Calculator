@@ -1,0 +1,17 @@
+C:\Users\Xeb\Desktop\Programming\Event Driven\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.csproj.AssemblyReference.cache
+C:\Users\Xeb\Desktop\Programming\Event Driven\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.Form1.resources
+C:\Users\Xeb\Desktop\Programming\Event Driven\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.csproj.GenerateResource.cache
+C:\Users\Xeb\Desktop\Programming\Event Driven\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xeb\Desktop\Programming\Event Driven\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.AssemblyInfoInputs.cache
+C:\Users\Xeb\Desktop\Programming\Event Driven\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.AssemblyInfo.cs
+C:\Users\Xeb\Desktop\Programming\Event Driven\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Xeb\Desktop\Programming\Event Driven\FrmCalculator\bin\Debug\net6.0-windows\FrmCalculator.exe
+C:\Users\Xeb\Desktop\Programming\Event Driven\FrmCalculator\bin\Debug\net6.0-windows\FrmCalculator.deps.json
+C:\Users\Xeb\Desktop\Programming\Event Driven\FrmCalculator\bin\Debug\net6.0-windows\FrmCalculator.runtimeconfig.json
+C:\Users\Xeb\Desktop\Programming\Event Driven\FrmCalculator\bin\Debug\net6.0-windows\FrmCalculator.dll
+C:\Users\Xeb\Desktop\Programming\Event Driven\FrmCalculator\bin\Debug\net6.0-windows\FrmCalculator.pdb
+C:\Users\Xeb\Desktop\Programming\Event Driven\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.dll
+C:\Users\Xeb\Desktop\Programming\Event Driven\FrmCalculator\obj\Debug\net6.0-windows\refint\FrmCalculator.dll
+C:\Users\Xeb\Desktop\Programming\Event Driven\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.pdb
+C:\Users\Xeb\Desktop\Programming\Event Driven\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.genruntimeconfig.cache
+C:\Users\Xeb\Desktop\Programming\Event Driven\FrmCalculator\obj\Debug\net6.0-windows\ref\FrmCalculator.dll
